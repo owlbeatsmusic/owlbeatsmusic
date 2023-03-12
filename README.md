@@ -1,10 +1,10 @@
 ## 🌊 Welcome to **github.com/owlbeatsmusic**
-owlbeatsmusic aka Allan Werner. Programming since 2019.
+owlbeatsmusic aka Allan Werner, started programming in 2019. Situated in Stockholm, Sweden.
 
 ### Languages
 * ☕ Java
 * 🐍 Python
 
-### I Enjoy
+### Interests
 * 🚇 Backend
 * 📑 Recreational Programming
