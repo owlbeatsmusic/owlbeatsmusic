@@ -3,6 +3,9 @@ owlbeatsmusic aka Allan Werner. Programming since 2019.
 ### Languages
 * ☕ Java
 * 🐍 Python
-### Akso Knowledge In
+### I Enjoy
+* 🚇 Backend
+* 📑 Recreational Programming
+### Also Knowledge In
 * ⛺ Minecraft Bedrock JSON
 * 
