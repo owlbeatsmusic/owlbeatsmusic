@@ -1,10 +1,10 @@
-## 💛 welcome to **github.com/owlbeatsmusic**
+## 🏳️‍🌈 welcome to **github.com/owlbeatsmusic**
 owlbeatsmusic aka Allan Werner, started programming in 2019.
 
-### 🤍 languages
+### languages
 * ☕ java
 * 🐍 python
 
-### 💜 interests
+### interests
 * 🚇 backend
 * 📑 recreational Programming
