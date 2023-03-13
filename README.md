@@ -7,4 +7,4 @@ owlbeatsmusic aka Allan Werner, started programming in 2019.
 
 ### Interests
 * 🚇 Backend
-* 📑 Recreational Programming
+* 📑 Recreational
